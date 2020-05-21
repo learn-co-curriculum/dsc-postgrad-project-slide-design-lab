@@ -1,25 +1,20 @@
-# dsc-postgrad-project-slide-design-lab
+# Slide Design Lab
 
 
-Design: How to find and use templates, how to set up slides cleanly, and how to think through making effective visualizations
+Design:
+1. Use slidecarnival to find a template for your presentation
+2. Add the relevant text and visualization to each slide, making sure to use the template format and styles
+3. Make sure to include slide numbers
 
-**Challenges** Most slides have unprofessional style: cluttered, text- or jargon-heavy, visuals that are dense, unclear or unnecessary
+Declutter:
+3. For text-heavy slides, ask "what can be moved to slide notes?"
+4. Can your slide titles be reduced to seven words or less?
+5. Is the text large enough to be read on screen?
+5. How many visuals do you have per slide? 
+6. Does each visualization convey *one* point? 
+7. Can you reduce the visualization to slide ratio down to 1:1.
+6. Do your visuals cover at least 60% of the slide?
 
-**Goal**: All presentation slides have a professional style.
+Deconstruct:
+ Do your visualization have all the necessary components?
 
-
-**Compents of a wuality presentation:**
-Most presentation slides have a professional style: uncluttered, light on text, no unnecessary jargon, visuals clearly demonstrate key points.
-
-
-Challenges: inconsistencies (color, font, font size, etc.) & visual distraction
-Solution: Use a template
-
-Challenges: Visualizations are a mess
-Solution: Checklist of things to think about, Python GraphViz link
-
-
-Challenges: A lot of text or jargon
-Solution: Less text, more visuals
-
-Checklist of how we went from messy to polished
