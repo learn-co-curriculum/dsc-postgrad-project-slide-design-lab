@@ -1,5 +1,6 @@
 # Slide Design Lab
 
+Use the following 18 steps and questions to review the design of your own project presentation materials. Make a to-do of how to enhance your materials and work through it item by item. 
 
 Design:
 1. Use slidecarnival to find a template for your presentation
@@ -17,5 +18,12 @@ Declutter:
 10. Do your visuals cover at least 60% of the slide?
 
 Deconstruct:
- Do your visualization have all the necessary components?
+11. Do your visualization have all the necessary components?
+12. Does each visualization have **a point** ?
+13. Is it relevant to the analysis and fits into the narrative of the presentation? 
+14. Is the most **important** part of the visualization highlighted? 
+15. Is **everything labeled**? Each axis? Is there a legend? a title? 
+16. Are **numbers in units people can understand**? Are the numbers on axis formatted appropriately? Are dollars with $ and percents with %? 
+17. Is all text **readable**? Does any text overlap? 
+18. Did you save each visuallizations to a **file**? 
 
