@@ -3,6 +3,7 @@
 Use the following 18 steps and questions to review the design of your own project presentation materials. Make a to-do of how to enhance your materials and work through it item by item. 
 
 Design:
+
 1. Use slidecarnival to find a template for your presentation
 2. Add the relevant text and visualization to each slide, making sure to use the template format and styles
 3. Make sure to include slide numbers
@@ -18,6 +19,7 @@ Declutter:
 10. Do your visuals cover at least 60% of the slide?
 
 Deconstruct:
+
 11. Do your visualization have all the necessary components?
 12. Does each visualization have **a point** ?
 13. Is it relevant to the analysis and fits into the narrative of the presentation? 
