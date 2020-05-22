@@ -1,14 +1,17 @@
 # Slide Design Lab
 
+The goal of this lab is to review and enhance the design of your own project presentation material.
+
+## Instructions:
 Use the following 18 steps and questions to review the design of your own project presentation materials. Make a to-do of how to enhance your materials and work through it item by item. 
 
-Design:
+### Design:
 
 1. Use slidecarnival to find a template for your presentation
 2. Add the relevant text and visualization to each slide, making sure to use the template format and styles
 3. Make sure to include slide numbers
 
-Declutter:
+### Declutter:
 
 4. For text-heavy slides, ask "what can be moved to slide notes?"
 5. Can your slide titles be reduced to seven words or less?
@@ -18,7 +21,7 @@ Declutter:
 9. Can you reduce the visualization to slide ratio down to 1:1.
 10. Do your visuals cover at least 60% of the slide?
 
-Deconstruct:
+### Deconstruct:
 
 11. Do your visualization have all the necessary components?
 12. Does each visualization have **a point** ?
