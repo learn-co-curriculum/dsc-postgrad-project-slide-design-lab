@@ -1,8 +1,20 @@
-# Slide Design Lab
+# Slide Design - Lab
+
+## Introduction
 
 The goal of this lab is to review and enhance the design of your own project presentation material.
 
-## Instructions:
+## Objectives
+
+You will be able to:
+
+- Identify what slide components count as "style"
+- Describe the impact of a slide template
+- declutter slides by removing excessive text and redundant visualizations
+- define the characteristics of a "complete" visualization
+
+## Instructions
+
 Use the following 18 steps and questions to review the design of your own project presentation materials. Make a to-do of how to enhance your materials and work through it item by item. 
 
 ### Design:
@@ -32,3 +44,6 @@ Use the following 18 steps and questions to review the design of your own projec
 17. Is all text **readable**? Does any text overlap? 
 18. Did you save each visuallizations to a **file**? 
 
+## Summary
+
+Congratulations, you now added killer slides to your project repo!
